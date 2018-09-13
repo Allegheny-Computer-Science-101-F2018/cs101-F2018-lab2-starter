@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'cs101-F2018-lab1-solution'
+rootProject.name = 'cs101-F2018-lab2-solution'
