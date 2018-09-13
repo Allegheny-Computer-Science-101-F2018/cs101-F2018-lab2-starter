@@ -42,4 +42,6 @@ public class TestSentences {
     assertEquals(reversedArray[0], originalArray[1]);
   }
 
+  // TODO: Add a third test case to check for three sentences
+
 }
