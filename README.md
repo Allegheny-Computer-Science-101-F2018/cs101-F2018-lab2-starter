@@ -99,14 +99,14 @@ about any of these reading assignments.
 
 ## Commands
 
-To get started in using the GatorGrader tool, you can change into the directory
-for this assignment and type the command `gradle grade` in your terminal.
-Running this command will produce a lot of output that you should carefully
-inspect. If the output indicates that GatorGrader judges that there are no
-mistakes in the assignment, then this means that your source code and writing
-are passing all of the automated baseline checks. However, if the output
-indicates that there are mistakes, then you will need to understand what they
-are and then try to fix them.
+To get started with using the GatorGrader tool, you can change into the
+directory for this assignment and type the command `gradle grade` in your
+terminal. Running this command will produce a lot of output that you should
+carefully inspect. If the output indicates that GatorGrader judges that there
+are no mistakes in the assignment, then this means that your source code and
+writing are passing all of the automated baseline checks. However, if the
+output indicates that there are mistakes, then you will need to understand what
+they are and then try to fix them.
 
 Running this command will produce a lot of output that you should carefully
 inspect. If the last line of the output indicates that GatorGrader judges that
@@ -191,7 +191,7 @@ document, your final submission must meet the following requirements.
 
 - writing/reflection.md:
   - Passes the checks performed by the Markdown linting tool
-  - Passes the checks performed by the Prose linting tool
+  - Passes the checks performed by the prose linting tool
   - Contains exactly five contiguous paragraph of formatted text
   - Each of the contiguous paragraph contains at least 100 words
 
@@ -205,7 +205,7 @@ you would like to receive these updates, then you can type this command in the
 main directory for this assignment:
 
 ```
-git remote add download git@github.com:Allegheny-Computer-Science-101-F2018/cs101-F2018-lab1-starter.git
+git remote add download git@github.com:Allegheny-Computer-Science-101-F2018/cs101-F2018-lab2-starter.git
 ```
 
 You should only need to type this command once; typing the command additional
